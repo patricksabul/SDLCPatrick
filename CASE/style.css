@@ -1,0 +1,29 @@
+
+
+* {
+    font-family: 'Comic Sans MS';
+    color: rgb(83, 74, 74);
+    -webkit-text-stroke-width: 0.25px;
+    -webkit-text-stroke-color: rgb(0, 0, 0);
+}
+
+body {
+    background-color: lightgray;
+}
+
+#linkcolor {
+    color: rgb(0, 0, 0);
+}
+
+#wiplinkcolor {
+    color: rgb(0, 0, 0);
+}
+
+#whiteoutline {
+    -webkit-text-stroke-width: 0.25px;
+    -webkit-text-stroke-color: rgb(131, 179, 172);
+}
+
+.row {
+    margin-bottom: 30px; /* Add space between rows */
+}
