@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="et">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Case-vahendid: Tööriistad Süsteemianalüüsiks ja -disainiks</title>
+</head>
+<body>
+    <header>
+        <h1>Case-vahendid: Tööriistad Süsteemianalüüsiks ja -disainiks</h1>
+    </header>
+    <section>
+        <h2>Kasutusalad:</h2>
+        <p>
+            CASE-vahendeid kasutatakse laialdaselt tarkvaraarenduses ja -halduses. Need on väärtuslikud vahendid nii suurtes ettevõtetes kui ka väiksemates meeskondades, kus tarkvaraarenduse protsesside efektiivsus on oluline. Näiteks võivad need olla kasulikud ettevõtetele, kes soovivad standardiseerida oma arendusprotsesse, parandada dokumentatsiooni kvaliteeti ja vähendada inimlike vigade mõju.
+        </p>
+    </section>
+    <section>
+        <h2>Potentsiaalsed vead:</h2>
+        <p>
+            Kuigi CASE-vahendid pakuvad mitmeid eeliseid, võivad nad kaasa tuua mõningaid väljakutseid ja potentsiaalseid vigu. Üks levinumaid probleeme on vahendite keerukus ja õppimiskõver. Mõned tööriistad võivad olla raskesti kasutatavad või vajada põhjalikku koolitust, enne kui nende täielikku potentsiaali saab ära kasutada. Lisaks võib mõnel juhul olla keeruline integreerida CASE-vahendeid olemasolevate süsteemidega või kohandada neid vastavalt konkreetsetele vajadustele.
+        </p>
+    </section>
+    <section>
+        <h2>Näited CASE-vahenditest:</h2>
+        <ol>
+            <li>
+                <h3>Microsoft Visio:</h3>
+                <p>
+                    Visio on graafiline joonistusvahend, mis pakub laia valikut funktsioone alates protsesside modelleerimisest kuni andmevoo diagrammideni. See võimaldab kasutajatel visuaalselt kujutada süsteemi komponente ja nende vahelisi suhteid.
+                </p>
+            </li>
+            <li>
+                <h3>IBM Rational Rose:</h3>
+                <p>
+                    Rational Rose on tuntud CASE-vahend, mis pakub täielikku tuge süsteemide analüüsiks ja disainiks. See võimaldab kasutajatel luua UML (Unified Modeling Language) diagramme ning genereerida automaatselt koodi erinevate programmeerimiskeelte jaoks.
+                </p>
+            </li>
+            <li>
+                <h3>Sparx Systems Enterprise Architect:</h3>
+                <p>
+                    Enterprise Architect on tarkvaraarenduse tööriist, mis võimaldab süsteemiarendajatel modelleerida, kavandada ja dokumenteerida tarkvaraprojekte. See pakub laia valikut funktsioone alates nõuete haldamisest kuni koodianalüüsini ning võimaldab meeskonnaliikmetel tõhusalt koostööd teha tarkvaraarenduse kõigis etappides.
+                </p>
+            </li>
+        </ol>
+    </section>
+</body>
+</html>
